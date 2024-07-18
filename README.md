@@ -1,16 +1,18 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma imagem gerada por IA, onde descresvi uma menina de cabelos cacheados segurando um cachorro da raça poodle.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo.ia
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Acessei o site de Leonardo.ia
+Na área de "type a prompt", digitei: Menina parda de cabelo  cacheado tamanho grande  menos volumoso de 27 anos segurando um cachorro poodle no sofá.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![image](https://github.com/user-attachments/assets/649d6bac-3310-4fbc-9292-66c261f329ba)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Os detalhes precisam estar bem específicos e o ambiente que a IA cria também fica bem artificial se não tiver muita precisão.
